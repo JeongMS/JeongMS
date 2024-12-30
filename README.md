@@ -7,7 +7,7 @@
 <!-- Body -->
 
 ### 🦾 Skills
-**🧑‍💻 Lang and Frameworks**
+**🧑‍💻 Lang and Frameworks**<br>
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![django](https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white)<br>
 <!-- Oracle의 요청으로 Java 로고가 Simple Icons에서 삭제되었기에 대신 OpenJDK의 로고를 사용 -->
