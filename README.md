@@ -8,13 +8,15 @@
 
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**<br>
-![PYTHON](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
-![JAVA](https://img.shields.io/badge/java-438421.svg?&style=for-the-badge&logo=openjdk&logoColor=black)
-![MYSQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/oracle-2982f3.svg?&style=for-the-badge&logo=oracle&logoColor=white)<br>
-![HTML5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![DART](https://img.shields.io/badge/dart-683991?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-438421.svg?&style=for-the-badge&logo=openjdk&logoColor=black)<br>
+![Html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![Css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-683991?style=for-the-badge&logo=dart&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/oracle-2982f3.svg?&style=for-the-badge&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
 **🛠️ Infra and Tools**
